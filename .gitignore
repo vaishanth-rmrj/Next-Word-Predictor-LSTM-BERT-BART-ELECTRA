@@ -1,0 +1,4 @@
+# ignore all saved ml models
+*.h5
+*.bin
+*.pkl
